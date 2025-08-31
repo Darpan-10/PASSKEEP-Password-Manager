@@ -143,7 +143,7 @@ const Manager = () => {
             <div className=" mx-auto max-w-7xl rounded-3xl shadow-lg bg-green-100 mycontainer px-15 py-5 ">
                 <h1 className='text-center p-2'> <div className="logo text-3xl font-bold tracking-wider">
                     <span className='text-black text-4xl'>&lt;</span>
-                    Pass<span className='text-3xl text-green-900'>OP</span><span className='text-black text-4xl'>/&gt;</span></div></h1>
+                    Pass<span className='text-3xl text-green-900'>Keep</span><span className='text-black text-4xl'>/&gt;</span></div></h1>
                 <p className='text-green-950 text-lg text-center font-bold'>Your Own Password Manager</p>
 
                 <div className="text-black  rounded-3xl flex flex-col p-4 gap-4  ">

@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className='bg-green-600 shadow-lg flex justify-between items-center rounded-2xl text-white px-4 h-15 mx-auto max-w-7xl my-5 relative'>
       <div className="logo text-xl font-bold tracking-wider">
         <span className='text-black text-2xl'>&lt;</span>
-        Pass<span className='text-xl text-green-900'>OP</span><span className='text-black text-2xl'>/&gt;</span>
+        Pass<span className='text-xl text-green-900'>Keep</span><span className='text-black text-2xl'>/&gt;</span>
       </div>
         
       <ul className='hidden min-[768px]:block'>
