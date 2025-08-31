@@ -5,7 +5,7 @@ A simple and secure password manager built with **React** and **Tailwind CSS**, 
 ---
 
 ## 📸 Screenshot
-![App Screenshot](./Screenshot.png)
+![App Screenshot](./screenshot.png)
 
 ---
 
