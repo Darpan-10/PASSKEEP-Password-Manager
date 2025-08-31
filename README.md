@@ -1,16 +1,36 @@
-<<<<<<< HEAD
-# ORGANIZR-TASK-MANAGER
-=======
-# React + Vite
+# 🔐 PassKeep – Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and secure password manager built with **React** and **Tailwind CSS**, designed to store and manage your passwords locally. Features animated icons with **Lord Icons** and instant feedback using **React-Toastify**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
+![App Screenshot](./Screenshot.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 4011b26 (initial commit)
+## ✨ Features
+- ➕ Add and manage your passwords easily  
+- 👁️ Toggle password visibility  
+- 📋 Copy credentials with one click  
+- 🗑️ Delete or edit stored passwords  
+- 🔔 Notifications with **toast**  
+- 🎨 Smooth animated icons using **Lord Icons**  
+- ⚡ Modern UI with **React + TailwindCSS**  
+
+---
+
+## 🛠️ Tools & Technologies
+- **React.js** ⚛️ – UI framework  
+- **Tailwind CSS** 🎨 – Styling  
+- **React-Toastify** 🔔 – Notifications  
+- **Lord Icons** ✨ – Animated icons  
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/Darpan-10/PASSKEEP-Password-Manager.git
+cd PASSKEEP-Password-Manager
